@@ -39,6 +39,11 @@ NOTA:
 
 
 <br/>
+=NOTAS=
+Para este proyecto hace falta la librería IRemote.h <br/>
+_[http://www.arcfn.com/2009/08/multi-protocol-infrared-remote-library.html]_
+
+<br/>
 =CHANGE LOG=
 
 v1.0 - 08/01/2012:
@@ -47,5 +52,3 @@ v1.0 - 08/01/2012:
 v1.1 - 27/01/2012:
  * Modificado el tiempo minimo para la pulsacion corta, de 100 a 20ms.
  * Añadido un aviso sonoro para advertir del apagado automático inminente.
-
-
