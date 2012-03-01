@@ -46,9 +46,10 @@ _[http://www.arcfn.com/2009/08/multi-protocol-infrared-remote-library.html]_
 <br/>
 =CHANGE LOG=
 
-v1.0 - 08/01/2012:
- * Programa base.
-
-v1.1 - 27/01/2012:
- * Modificado el tiempo minimo para la pulsacion corta, de 100 a 20ms.
+2012/01/27 - v1.1:
+ * Modificado el tiempo mínimo para la pulsación corta, de 100 a 20ms.
  * Añadido un aviso sonoro para advertir del apagado automático inminente.
+
+
+2012/01/08 - v1.0:
+ * Programa base.
